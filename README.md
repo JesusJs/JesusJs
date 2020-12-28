@@ -5,7 +5,7 @@
 
 ```js
 const jesus = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Angular, Boostrap, Visual Studio],
   }
