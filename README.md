@@ -7,13 +7,8 @@
 - 📭  Correo:  jdchavezzss@gmail.com
 - 👔 Linkedin:  https://www.linkedin.com/in/jesus-chavez-344bb21ba/
 - 📍 Apasionado Aautodidacta, Pro-activo, Me gusta Aprender nuevos Lenguajes,
-    Disfruto llevar a cabo la Maquetación e Interactividad de Interfaces Web 
-    <p align="right">
-<img src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
- 
- </p>
+    Disfruto llevar a cabo la Maquetación e Interactividad de Interfaces Web .
     
-
 ## 🚀 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -24,3 +19,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+ <p align="right">
+<img src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
+ 
+ </p>
