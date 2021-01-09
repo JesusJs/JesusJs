@@ -3,15 +3,13 @@
  
 Here are some ideas to get you started:
 - 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
- - 🌎 Contactame :  
-  📫 Correo: jdchavezzss@gmail.com
-- 📍 Apasionado autodidacta, pro-activo me gusta aprender nuevos lenguajes,
-    Disfruto llevar a cabo la maquetación e interactividad de interfaces web
-    
- <p align="right"> 
+ - 🌎 Contactame :                        <p align="right"> 
  <img src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
  </p>
 
+  📫 Correo: jdchavezzss@gmail.com
+- 📍 Apasionado autodidacta, pro-activo me gusta aprender nuevos lenguajes,
+    Disfruto llevar a cabo la maquetación e interactividad de interfaces web 
 
 ## 🚀 Technologies
 
