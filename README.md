@@ -1,6 +1,6 @@
 ##  ¡Hola, soy Jesús Daniel! ☺.  Apasionado Desarrollador Web Autodidacta🚀
  
-<p align="right" 
+<p align="left" 
  
 - 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
 - 🌎 Contactame: 
