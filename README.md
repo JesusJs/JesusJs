@@ -1,16 +1,9 @@
  ¡Hola, soy Jesús Daniel! ☺ , un apasionado desarrollador web autodidacta🚀
  
-```js
-const jesus = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS], ![Write](https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif)
-  tools: [Angular, Boostrap, Visual Studio],
-  }
-```
-Can you find me 🌎:
-- 📩 Correo: jdchavezzss@gmail.com
+ 
+ ![Write](https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif)
+ 
 
-<!--
 **JesusJs/JesusJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Can you find me 🌎:
+- 📩 Correo: jdchavezzss@gmail.com
