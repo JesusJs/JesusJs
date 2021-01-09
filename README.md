@@ -2,7 +2,7 @@
 <p>
 Here are some ideas to get you started:
 - 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
- - 🌎 Contactame :  <spam> ![Write](https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif) </spam>
+ - 🌎 Contactame :  # ![Write](https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif) 
   📫 Correo: jdchavezzss@gmail.com
 - 📍 Apasionado autodidacta, pro-activo me gusta aprender nuevos lenguajes,
     Disfruto llevar a cabo la maquetación e interactividad de interfaces web
