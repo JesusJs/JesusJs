@@ -1,4 +1,4 @@
-##  ¡Hola, soy Jesús Daniel! ☺ , un apasionado desarrollador web autodidacta🚀
+##  ¡Hola, soy Jesús Daniel! ☺ , un Apasionado Desarrollador Web Autodidacta🚀
  
 <p align="pull-right"> 
  
