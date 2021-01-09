@@ -2,7 +2,6 @@
 
  
  ![Write](https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif)
- <hr>
 
 Here are some ideas to get you started:
 
@@ -14,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Can you find me 🌎:
+
+Contactame 🌎:
 - 📩 Correo: jdchavezzss@gmail.com
 
 ## 🚀 Technologies
