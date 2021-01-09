@@ -4,8 +4,8 @@
  
 - 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
 - 🌎 Contactame: 
-         Correo: - jdchavezzss@gmail.com
-       Linkedin: - https://www.linkedin.com/in/jesus-chavez-344bb21ba/
+-         Correo:  jdchavezzss@gmail.com
+-       Linkedin:  https://www.linkedin.com/in/jesus-chavez-344bb21ba/
 - 📍 Apasionado autodidacta, pro-activo me gusta aprender nuevos lenguajes,
     Disfruto llevar a cabo la maquetación e interactividad de interfaces web 
  <img src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
