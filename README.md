@@ -1,6 +1,6 @@
 ##  ¡Hola, soy Jesús Daniel! ☺.  Apasionado Desarrollador Web Autodidacta🚀
  
-  <p>
+  <p align="right">
  
 - 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
 - 🌎 Contactame: 
@@ -9,8 +9,8 @@
 - 📍 Apasionado Aautodidacta, Pro-activo, Me gusta Aprender nuevos Lenguajes,
     Disfruto llevar a cabo la Maquetación e Interactividad de Interfaces Web 
     
-   
- <img align="right" width="600" height="200"" src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
+<img width="600" height="200"" src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
+ 
  </p>
     
 
