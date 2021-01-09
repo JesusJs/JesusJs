@@ -1,10 +1,9 @@
  ¡Hola, soy Jesús Daniel! ☺ , un apasionado desarrollador web autodidacta🚀
  
-  ![Write](https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif)
 ```js
 const jesus = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS], 
+  code: [Javascript, Typescript, HTML, CSS], ![Write](https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif)
   tools: [Angular, Boostrap, Visual Studio],
   }
 ```
