@@ -1,6 +1,6 @@
 ##  ¡Hola, soy Jesús Daniel! ☺.  Apasionado Desarrollador Web Autodidacta🚀
  
-  <p align="right">
+  
  
 - 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
 - 🌎 Contactame: 
@@ -8,7 +8,7 @@
 - 👔 Linkedin:  https://www.linkedin.com/in/jesus-chavez-344bb21ba/
 - 📍 Apasionado Aautodidacta, Pro-activo, Me gusta Aprender nuevos Lenguajes,
     Disfruto llevar a cabo la Maquetación e Interactividad de Interfaces Web 
-    
+    <p align="right">
 <img src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
  
  </p>
