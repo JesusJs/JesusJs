@@ -6,8 +6,8 @@
 - 🌎 Contactame: 
 - 📭  Correo:  jdchavezzss@gmail.com
 - 👔 Linkedin:  https://www.linkedin.com/in/jesus-chavez-344bb21ba/
-- 📍 Apasionado autodidacta, pro-activo me gusta aprender nuevos lenguajes,
-    Disfruto llevar a cabo la maquetación e interactividad de interfaces web 
+- 📍 Apasionado Aautodidacta, Pro-activo me gusta Aprender nuevos Lenguajes,
+    Disfruto llevar a cabo la Maquetación e Interactividad de Interfaces Web 
  <img src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
  </p>
     
