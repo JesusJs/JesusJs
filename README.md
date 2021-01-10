@@ -2,7 +2,7 @@
  
   
  
-- 🔭 Actualmente estoy trabajando como voluntario en : https://www.dsarrollo.com
+- 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
 - 🌎 Contactame: 
 - 📭  Correo:  jdchavezzss@gmail.com
 - 👔 Linkedin:  https://www.linkedin.com/in/jesus-chavez-344bb21ba/
