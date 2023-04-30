@@ -1,12 +1,12 @@
-##  ¡Hola, soy Jesús Daniel! ☺.  Apasionado Desarrollador Web Autodidacta🚀
+##  ¡Hola, soy Jesús Daniel! ☺.  Software Development🚀
  
   
  
-- 🔭 Actualmente estoy trabajando en : https://www.dsarrollo.com
+- 🔭 Actualmente estoy trabajando en : Dolphining
 - 🌎 Contactame: 
 - 📭  Correo:  jdchavezzss@gmail.com
 - 👔 Linkedin:  https://www.linkedin.com/in/jesus-chavez-344bb21ba/
-- 📍 Apasionado autodidacta, pro-activo, me gusta Aprender nuevos lenguajes.
+- 📍 Apasionado, pro-activo, me gusta Aprender nuevos lenguajes.
     Disfruto llevar a cabo la maquetación e interactividad de Interfaces Web .
     
 ## 🚀 Technologies
