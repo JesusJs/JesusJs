@@ -22,6 +22,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
- <p align="right">
-<img src="https://user-images.githubusercontent.com/67086360/103188116-901fca80-489d-11eb-9845-2986cb518a85.gif">
- </p>
+![211202106-ae9c6a58-ceba-4696-b7ca-18cd84aa904a](https://github.com/JesusJs/JesusJs/assets/67086360/c6efa6dc-d389-495f-ba1d-7d4fde2f8fd2)
