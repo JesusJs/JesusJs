@@ -1,13 +1,4 @@
-##  ¡Hola, soy Jesús Daniel! ☺.  Software Development🚀
- 
-  
- 
-- 🔭 Actualmente estoy trabajando en : Dolphining
-- 🌎 Contactame: 
-- 📭  Correo:  jdchavezzss@gmail.com
-- 👔 Linkedin:  https://www.linkedin.com/in/jesus-chavez-344bb21ba/
-- 📍 Apasionado, pro-activo, me gusta Aprender nuevos lenguajes.
-    Disfruto llevar a cabo la maquetación e interactividad de Interfaces Web .
+##  
     
 ## 🚀 Technologies
 
